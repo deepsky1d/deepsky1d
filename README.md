@@ -20,7 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.w3schools.io/terminal/bash-tutorials/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="kubernetes" width="40" height="40"/> </a>
+<a href="https://www.w3schools.io/terminal/bash-tutorials/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/php/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg" alt="kubernetes" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
 </p>
