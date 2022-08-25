@@ -5,7 +5,7 @@
 - 👀 I am also trying to setup my own blogging websites https://qwikbitz.com and https://blog.cicdtrail.com.
 - 💞️ I’m looking to collaborate on learning, developing, creating automation, web development, DevOps and Cloud projects.
 - 💞️ I’m also looking to collaborate on hobby projects such as photography, cricket, travelling, creating videos, Adobe Premiere Pro etc
-- 📫 Reach out to me on LinkedIn: https://www.linkedin.com/in/cicdtrail/ 
+- 📫 Reach out to me on LinkedIn: https://www.linkedin.com/in/cicdtrail-cdeepak/
 
 <!---
 deepsky1d/deepsky1d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
