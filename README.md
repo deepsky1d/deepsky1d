@@ -4,7 +4,7 @@
 - 🌱 I am in process to setup technology blogging and knowledge resource platforms:
 - 🌱 https://cicdtrail.com
 - 💞️ Open to collaborate, learn, develop, automate and create opportunities in cloud and DevOps projects.
-- 📫 Reach out to me on LinkedIn: https://www.linkedin.com/in/cdeepak-gb/
+- 📫 Reach out to me on LinkedIn: https://www.linkedin.com/in/cdeepak-uk/
 
 <!---
 deepsky1d/deepsky1d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
