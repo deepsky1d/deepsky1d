@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Deepak and this account is a show case of stuff that I like to work on.
-- 🔭 I’m interested in Cloud, DevOps, Linux and Web Development.
-- 👀 My hobbies are photography, travelling, Cricket, Outdoors and lot more.
-- 🌱 I am in process to setup technology blogging and knowledge resource platforms:
+- 👋 Hi, this account is a show case of stuff that I like to work on.
+- 🔭 I’m interested in Cloud, DevOps, SRE, Python, AI, Linux and Web Development.
+- 🌱 I publish technology articles and knowledge resources here:
 - 🌱 https://cicdtrail.com
 - 💞️ Open to collaborate, learn, develop, automate and create opportunities in cloud and DevOps projects.
 - 📫 Reach out to me on LinkedIn: https://www.linkedin.com/in/cdeepak-uk/
