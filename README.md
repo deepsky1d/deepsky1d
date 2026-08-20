@@ -1,4 +1,4 @@
-- 👋 Hi, this account is a show case of stuff that I like to work on.
+- 👋 Hi, Most of what's here is lab work, Notes and working code
 - 🔭 I’m interested in Cloud, DevOps, SRE, Python, AI, Linux and Web Development.
 - 🌱 I publish technology articles and knowledge resources here:
 - 🌱 https://cicdtrail.com
