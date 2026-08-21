@@ -1,8 +1,5 @@
-- 👋 Hi, Most of what's here is lab work, Notes and working code
+- 👋 Hi, most of what's here is lab work, notes and working code
 - 🔭 I’m interested in Cloud, DevOps, SRE, Python, AI, Linux and Web Development.
-- 🌱 I publish technology articles and knowledge resources here:
-- 🌱 https://cicdtrail.com
-- 💞️ Open to collaborate, learn, develop, automate and create opportunities in cloud and DevOps projects.
 - 📫 Reach out to me on LinkedIn: https://www.linkedin.com/in/cdeepak-uk/
 
 <!---
